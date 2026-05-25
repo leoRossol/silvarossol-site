@@ -98,7 +98,7 @@ function setupHeaderHideOnFooter() {
     },
     {
       // Considera o footer "visível" quando 5% dele aparece na tela
-      threshold: 0.5
+      threshold: 0.
     }
   );
 
